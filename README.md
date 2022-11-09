@@ -1,4 +1,4 @@
-<h1 align="center">¡Bienvenido/a!</h1>
+<h1 align="center">¡Bienvenido/a! 🙋🏻‍♀️</h1>
 <h3 align="center">Mi nombre es Priscila Elizabeth Gallardo</h3>
 
 <h4>Desde que emprendí este camino de constante aprendizaje me enfrenté a muchos altibajos, pero las ansias de seguir aprendiendo permanecían, por esto, actualmente y con orgullo puedo decir que soy Desarrolladora Web Full Stack 👩🏻‍💻</h4>
