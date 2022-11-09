@@ -13,10 +13,10 @@
 
 
 <h3 align="left"> ¿Quieres saber más de mí? ¡Contáctame!</h3>
-<p align="left"> E-mail: <a> pri00gallardo@gmail.com </a> </p>
-<p align="left">
-<a href="https://linkedin.com/in/priscila elizabeth gallardo" target="blank">Linkedin</a>
-</p>
+- E-mail: <a> pri00gallardo@gmail.com </a> </p>
+
+- <a href="https://www.linkedin.com/in/priscila-elizabeth-gallardo-9b0744244/" target="blank">Linkedin</a>
+
 ### ¿Quieres saber más de mí? ¡Contáctame!
 - E-mail: pri00gallardo@gmail.com
 - [Linkedin](https://www.linkedin.com/in/priscila-elizabeth-gallardo-9b0744244/)
