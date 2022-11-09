@@ -1,5 +1,5 @@
 ## Bienvenido/a! 🙋🏻‍♀️ 
-
+### Mi nombre es Priscila Elizabeth Gallardo
 <!--
 **Eli-zabethh00/Eli-zabethh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 Gracias a la oportunidad de trabajar varias veces en atención al cliente, he podido aprender tanto de las necesidades de usuario como de las de administrador. Por esto, me gusta ver más allá de lo habitual, soy una persona proactiva y detallista, disfruto de ayudar y aportar en lo que se requiera, siempre velando por obtener los mejores resultados. 
 
 ### • Tech Skills 
-#### ✓ Javascript
-#### ✓ React.js
+#### ✓ Javascript                      #### ✓ React.js
 #### ✓ Redux.js
 #### ✓ Express
 #### ✓ Sequelize
