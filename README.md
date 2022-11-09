@@ -5,7 +5,7 @@
 
 <h3>🤔 Sobre mí  </h3>
 
-** Soy una persona proactiva y detallista, me gusta ver más allá de lo habitual, disfruto de ayudar y aportar en lo que se requiera, siempre velando por obtener los mejores resultados.**
+**Soy una persona proactiva y detallista, me gusta ver más allá de lo habitual, disfruto de ayudar y aportar en lo que se requiera, siempre velando por obtener los mejores resultados.**
 
 <h3> 💡 Experiencia  </h3>
 
