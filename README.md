@@ -13,9 +13,9 @@
 
 
 <h3 align="left"> ¿Quieres saber más de mí? ¡Contáctame!</h3>
-<p align="left"> E-mail: pri00gallardo@gmail.com </p>
+<p align="left"> E-mail: <a> pri00gallardo@gmail.com </a> </p>
 <p align="left">
-<a href="https://linkedin.com/in/priscila elizabeth gallardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priscila elizabeth gallardo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priscila elizabeth gallardo" target="blank">Linkedin</a>
 </p>
 ### ¿Quieres saber más de mí? ¡Contáctame!
 - E-mail: pri00gallardo@gmail.com
