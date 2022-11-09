@@ -24,12 +24,12 @@ Gracias a la oportunidad de trabajar varias veces en atención al cliente, he po
 #### ✓ Javascript
 #### ✓ React.js
 #### ✓ Redux.js
-✓ Express
-✓ Sequelize
-✓ PostgreSQL
-✓ Node.js
-✓ HTML
-✓ CSS
+#### ✓ Express
+#### ✓ Sequelize
+#### ✓ PostgreSQL
+#### ✓ Node.js
+#### ✓ HTML
+#### ✓ CSS
 
 ### Quieres saber más de mí? Contáctame!
 - E-mail: pri00gallardo@gmail.com
