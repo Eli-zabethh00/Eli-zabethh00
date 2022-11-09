@@ -3,7 +3,8 @@
 
 <h4>Desde que emprendí este camino de constante aprendizaje me enfrenté a muchos altibajos, pero las ansias de seguir aprendiendo permanecían, por esto, actualmente y con orgullo puedo decir que soy Desarrolladora Web Full Stack 👩🏻‍💻</h4>
 
-- Sobre mí 🤔 
+<h3> Sobre mí 🤔 </h3>
+
 **Gracias a la oportunidad de trabajar varias veces en atención al cliente, he podido aprender tanto de las necesidades de usuario como de las de administrador. Por esto, me gusta ver más allá de lo habitual, soy una persona proactiva y detallista, disfruto de ayudar y aportar en lo que se requiera, siempre velando por obtener los mejores resultados.**
 
 
@@ -17,7 +18,3 @@
 - E-mail: pri00gallardo@gmail.com
 
 - [Linkedin](https://www.linkedin.com/in/priscila-elizabeth-gallardo-9b0744244/)
-
-### ¿Quieres saber más de mí? ¡Contáctame!
-- E-mail: pri00gallardo@gmail.com
-- 
