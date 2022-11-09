@@ -32,5 +32,5 @@ Gracias a la oportunidad de trabajar varias veces en atención al cliente, he po
 ✓ CSS
 
 ### Quieres saber más de mí? Contáctame!
-~ E-mail: pri00gallardo@gmail.com
-~ [Linkedin](https://www.linkedin.com/in/priscila-elizabeth-gallardo-9b0744244/)
+- E-mail: pri00gallardo@gmail.com
+- [Linkedin](https://www.linkedin.com/in/priscila-elizabeth-gallardo-9b0744244/)
