@@ -13,8 +13,7 @@
 
 
 <h3 align="left"> ¿Quieres saber más de mí? ¡Contáctame!</h3>
-- E-mail: <a> pri00gallardo@gmail.com </a> </p>
-
+- E-mail: pri00gallardo@gmail.com
 - <a href="https://www.linkedin.com/in/priscila-elizabeth-gallardo-9b0744244/" target="blank">Linkedin</a>
 
 ### ¿Quieres saber más de mí? ¡Contáctame!
